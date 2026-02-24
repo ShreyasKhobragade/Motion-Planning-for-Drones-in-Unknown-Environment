@@ -138,4 +138,4 @@ Execute the mapping, planning, and controller modules across multiple terminals:
 *A 2D Nav Goal can be assigned dynamically within RViz (launched alongside mapping).*
 
 ---
-<p align="center"><em>Project created and maintained by Dhruv Agrawal, Hrishikesh Pawar, and Shreyas Khobragade</em></p>
+
